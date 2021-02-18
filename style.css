@@ -1,0 +1,54 @@
+.header{
+    color:pink;
+    background-color: rgb(0, 0, 0);
+    display:flex;
+    justify-content:space-around
+}
+
+.title{
+    color:rgb(255, 255, 255);
+    font-style: italic;
+    text-align: center;
+}
+h1{
+    position:absolute;
+    top:10%;
+    left:40%
+}h2{
+    position:absolute;
+    top:20%;
+}
+
+    body{
+    background-color: rgb(240, 240, 240);
+
+    }
+    
+    .grid {
+   
+        border-radius: 50px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content:space-evenly;
+    }
+
+.origami {
+    
+    background-color: rgb(255, 255, 255);
+    padding:30px;
+    margin:25px;
+    width:400px;
+    }
+    h4{
+       text-align: center;
+       font-size: large;
+    }
+    .img{
+        opacity: 0.7;
+    }
+    img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    
